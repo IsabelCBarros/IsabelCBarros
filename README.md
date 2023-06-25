@@ -4,6 +4,7 @@ Olá, Mundo! 👋😃
 
 
 Meu nome é Isabel Cristina de Barros, sou farmacêutica clínica em transição de carreia.
+
 Estudante de Análise e Desenvolvimento de Sistemas.
 
 - 🌱 Atualmente estou aprendendo Python - Análise de Dados
