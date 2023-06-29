@@ -7,7 +7,7 @@ Meu nome é Isabel Cristina de Barros, sou farmacêutica clínica em transição
 
 Estudante de Análise e Desenvolvimento de Sistemas.
 
-- 🌱 Atualmente estou aprendendo Python - Análise de Dados
+- 🌱 Aprendendo Análise de Dados no bootcamp da SoulCode Academy.
   
 - 📫 Como entrar em contato comigo: ![image](https://github.com/IsabelCBarros/IsabelCBarros/assets/100105009/dc8a271f-041d-4c11-b870-fb820e72f020)
 
