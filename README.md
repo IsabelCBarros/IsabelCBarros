@@ -1,19 +1,3 @@
-Olá, Mundo! 👋😃
-
-![image](https://github.com/IsabelCBarros/IsabelCBarros/assets/100105009/75056a82-0d37-4d3a-b7d7-b63eeab594b0)
 
 
-Meu nome é Isabel Cristina de Barros, sou farmacêutica clínica em transição de carreira.
-
-Estudante de Análise e Desenvolvimento de Sistemas.
-
-- 🌱 Aprendendo Análise de Dados no bootcamp da SoulCode Academy.
-  
-- 📫 Como entrar em contato comigo: ![image](https://github.com/IsabelCBarros/IsabelCBarros/assets/100105009/dc8a271f-041d-4c11-b870-fb820e72f020)
-
-     https://www.linkedin.com/in/isabelcristinadebarros/
-
-
-- ⚡ Curiosidade: Amo música 💖💖 estou aprendendo a tocar piano e violão.
-
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=080308&background=F77EE000&center=verdadeiro&vCenter=verdadeiro&multiline=true&repeat=falso&width=435&lines=Ol%C3%A1%2C+Mundo!+%F0%9F%91%8B%F0%9F%98%83;Meu+nome+%C3%A9+Isabel+Cristina+de+Barros%2C+sou+farmac%C3%AAutica+cl%C3%ADnica+em+transi%C3%A7%C3%A3o+de+carreira.;Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas.;%F0%9F%8C%B1+Aprendendo+An%C3%A1lise+de+Dados+no+bootcamp+da+SoulCode+Academy.;https%3A%2F%2Fwww.linkedin.com%2Fin%2Fisabelcristinadebarros%2F;%E2%9A%A1+Curiosidade%3A+Amo+m%C3%BAsica+%F0%9F%92%96%F0%9F%92%96+estou+aprendendo+a+tocar+piano+e+viol%C3%A3o.)](https://git.io/typing-svg)
