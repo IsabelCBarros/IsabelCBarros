@@ -19,7 +19,9 @@ Estudante de Análise e Desenvolvimento de Sistemas.
 •	🌱 Aprendendo Análise de Dados no bootcamp da SoulCode Academy.
 
 •	📫 Como entrar em contato comigo:  
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://www.linkedin.com/in/fagnerpsantos/) https://www.linkedin.com/in/isabelcristinadebarros/
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/isabelcristinadebarros/)]
+(https://www.linkedin.com/in/isabelcristinadebarros/) 
 
 •	⚡ Curiosidade: Amo música 💖💖 estou aprendendo a tocar piano e violão.
 
