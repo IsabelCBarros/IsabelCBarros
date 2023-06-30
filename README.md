@@ -22,6 +22,8 @@ Estudante de Análise e Desenvolvimento de Sistemas.
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/isabelcristinadebarros/)](https://www.linkedin.com/in/isabelcristinadebarros/)
 
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/isabelcbarros)](https://github.com/isabelcbarros)
+
 •	⚡ Curiosidade: Amo música 💖💖 estou aprendendo a tocar piano e violão.
 
 
