@@ -14,6 +14,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/isabelcristinadebarros/)](https://www.linkedin.com/in/isabelcristinadebarros/) [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/isabelcbarros)](https://github.com/isabelcbarros)
 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white&link=https://www.facebook.com/IsabelCbarros26)](https://www.facebook.com/IsabelCbarros26)
 
 
 
