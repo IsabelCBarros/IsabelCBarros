@@ -12,9 +12,9 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&size=30&duration=3000&pause=500&color=06161C&width=800&height=80&lines=%09%F0%9F%93%AB+Como+entrar+em+contato+comigo%3A++)](https://git.io/typing-svg)  
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/isabelcristinadebarros/)](https://www.linkedin.com/in/isabelcristinadebarros/) [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/isabelcbarros)](https://github.com/isabelcbarros)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/isabelcristinadebarros/)](https://www.linkedin.com/in/isabelcristinadebarros/) [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/isabelcbarros)](https://github.com/isabelcbarros) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/IsabelCbarros26)](https://www.facebook.com/IsabelCbarros26) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white)	
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white&link=https://www.facebook.com/IsabelCbarros26)](https://www.facebook.com/IsabelCbarros26)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/isabellcristinabarros/)
 
 
 
