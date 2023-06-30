@@ -6,9 +6,27 @@ Olá, Mundo! 👋😃
 
  
 Meu nome é Isabel Cristina de Barros, sou farmacêutica clínica em transição de carreira.
+
 Estudante de Análise e Desenvolvimento de Sistemas.
+
 •	🌱 Aprendendo Análise de Dados no bootcamp da SoulCode Academy.
+
 •	📫 Como entrar em contato comigo:  ![image](https://github.com/IsabelCBarros/IsabelCBarros/assets/100105009/ae4445e9-e2db-4436-be70-c068a9b844df)
+
 https://www.linkedin.com/in/isabelcristinadebarros/
+
 •	⚡ Curiosidade: Amo música 💖💖 estou aprendendo a tocar piano e violão.
+
+
+
+
+
+
+
+
+
+
+
+
+
 
