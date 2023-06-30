@@ -3,7 +3,8 @@
 
 
 
-![image](https://github.com/IsabelCBarros/IsabelCBarros/assets/100105009/c8863a09-21ee-4b82-805b-724d60710d9e)
+![image](https://github.com/IsabelCBarros/IsabelCBarros/assets/100105009/52c22001-09e1-413c-846f-679d1b46dad7)
+
 
 
 
