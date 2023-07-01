@@ -4,15 +4,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=IsabelCBarros&color=yellow" alt="Profile views" /> </p>
 
-![image](https://github.com/IsabelCBarros/IsabelCBarros/assets/100105009/280ff1b2-ec3b-472e-af7f-999950a2a34e)
-
-<div align="right">
-  
-  ![ezgif com-gif-maker](https://github.com/IsabelCBarros/IsabelCBarros/assets/100105009/1f5dcd91-a5a4-4974-b6e0-5e47abdf7392)
-
+![image](https://github.com/IsabelCBarros/IsabelCBarros/assets/100105009/280ff1b2-ec3b-472e-af7f-999950a2a34e) <div align="right"> 
+![ezgif com-gif-maker](https://github.com/IsabelCBarros/IsabelCBarros/assets/100105009/1f5dcd91-a5a4-4974-b6e0-5e47abdf7392)
 </div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&size=25&duration=3000&pause=500&color=080508&width=800&height=70&lines=%F0%9F%93%AD%F0%9F%93%A7%F0%9F%93%B2+++How+to+contact+me%3A)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&size=25&duration=3000&pause=500&color=080508&width=800&height=70&lines=%F0%9F%93%AD%F0%9F%93%A7%F0%9F%93%B2+++How+to+contact+me%3A)](https://git.io/typing-svg) 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/isabelcristinadebarros/)](https://www.linkedin.com/in/isabelcristinadebarros/) [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/isabelcbarros)](https://github.com/isabelcbarros) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/IsabelCbarros26)](https://www.facebook.com/IsabelCbarros26)	[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/isabellcristinabarros/) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5511954906073)
 
