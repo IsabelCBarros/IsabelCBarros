@@ -4,7 +4,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=IsabelCBarros&color=yellow" alt="Profile views" /> </p>
 
-![image](https://github.com/IsabelCBarros/IsabelCBarros/assets/100105009/280ff1b2-ec3b-472e-af7f-999950a2a34e) 
+![image](https://github.com/IsabelCBarros/IsabelCBarros/assets/100105009/cd41c1ae-ba4a-4294-a4d6-b32b4a83fee6)
+
 <div align="center"> 
   
 ![ezgif com-gif-maker](https://github.com/IsabelCBarros/IsabelCBarros/assets/100105009/1f5dcd91-a5a4-4974-b6e0-5e47abdf7392)
