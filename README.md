@@ -6,7 +6,11 @@
 
 ![image](https://github.com/IsabelCBarros/IsabelCBarros/assets/100105009/280ff1b2-ec3b-472e-af7f-999950a2a34e)
 
+<div align="right">
+  
+  ![ezgif com-gif-maker](https://github.com/IsabelCBarros/IsabelCBarros/assets/100105009/1f5dcd91-a5a4-4974-b6e0-5e47abdf7392)
 
+</div>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&size=25&duration=3000&pause=500&color=080508&width=800&height=70&lines=%F0%9F%93%AD%F0%9F%93%A7%F0%9F%93%B2+++How+to+contact+me%3A)](https://git.io/typing-svg)
 
