@@ -4,7 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=IsabelCBarros&color=yellow" alt="Profile views" /> </p>
 
-![image](https://github.com/IsabelCBarros/IsabelCBarros/assets/100105009/cd41c1ae-ba4a-4294-a4d6-b32b4a83fee6)
+<p align="center">
+  <img src="https://github.com/IsabelCBarros/IsabelCBarros/blob/main/imagem%20git.png" alt="Imagem Git" />
+</p>
 
 <div align="center"> 
   
