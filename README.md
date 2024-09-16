@@ -1,6 +1,6 @@
 <img width=99% src="https://capsule-render.vercel.app/api?type=waving&customColorList=pink=100&section=header20"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&size=25&duration=3000&pause=500&color=080508&center=true&width=800&height=70&lines=Hello%2C+world!+%F0%9F%91%8B%F0%9F%98%83;My+name+is+Isabel+Cristina+de+Barros;+I+am+a+Clinical+Pharmacist%F0%9F%92%8A%F0%9F%92%8A+transitioning+my+career.;I+am+currently+a+student+%F0%9F%93%9A%F0%9F%8E%93+of+Analysis+and+Systems+%F0%9F%92%BBDevelopment+;I+am+learning+Data+Analysis+in+the+bootcamp+at+SoulCode+Academy;I+love+music+%F0%9F%92%96%F0%9F%92%96%F0%9F%8E%BC%F0%9F%8E%B6%F0%9F%8E%B5+;and+I'm+learning+to+play+the+piano%F0%9F%8E%B9+and+the+guitar%F0%9F%8E%B8.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&size=25&duration=3000&pause=500&color=080508&center=true&width=800&height=70&lines=Hello%2C+world!+%F0%9F%91%8B%F0%9F%98%83;My+name+is+Isabel+Cristina+de+Barros;+I+am+a+Clinical+Pharmacist%F0%9F%92%8A%F0%9F%92%8A+transitioning+my+career.;I+am+currently+a+student+%F0%9F%93%9A%F0%9F%8E%93+of+Analysis+and+Development+of+Systems+%F0%9F%92%BB;+and+Cybersecurity+%F0%9F%92%94;I+completed+a+Data+Analysis+bootcamp+at+SoulCode+Academy;+I+love+music+%F0%9F%92%96%F0%9F%92%96%F0%9F%8E%BC%F0%9F%8E%B6%F0%9F%8E%B5+;and+I'm+learning+to+play+the+piano%F0%9F%8E%B9+and+the+guitar%F0%9F%8E%B8.)](https://git.io/typing-svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=IsabelCBarros&color=yellow" alt="Profile views" /> </p>
 
